@@ -1,0 +1,23 @@
+table{
+  background-color: #C7E7Fe;
+  font-size: 12px;
+  width: 600;
+  padding: 2px;
+}
+.cabeçalho{
+    background-color: #0D5188;
+    color: white;
+    font-size: 12px;
+}
+.primeirali{
+    background-color: #66C5E3;
+    font-size: 12px;
+}
+.cod{
+    background-color: silver;
+    font-size: 12px;
+}
+.cidades{
+    color: #0D5188;
+    font-size: 12px;
+}
